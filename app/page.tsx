@@ -6,7 +6,7 @@ import MoboLinks from "@/components/MoboLinks";
 
 export default function Home() {
   return (
-    <section className="size-full">
+    <section className="size-full text-[#605F5F]">
       <Header />
       <ChooseUs />
       <Spaces />
