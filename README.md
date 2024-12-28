@@ -1,1 +1,7 @@
 # BHive test
+
+```
+#.env
+NEXT_PUBLIC_API_BASE=
+NEXT_PUBLIC_IMAGE_BASE=
+```
